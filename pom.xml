@@ -9,8 +9,6 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>lib-clink</module>
-        <module>sample-foo</module>
         <module>sample-client</module>
         <module>sample-server</module>
     </modules>
